@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shoppingList",
-    "slug": "shoppingList",
+    "name": "Weekly Expense",
+    "slug": "weeklyexpense",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -27,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An application to keep track of your weekly expense."
   }
 }

@@ -1,0 +1,78 @@
+{
+  "EN": {
+    "APP_NAME": "WEEKLY EXPENSE",
+    "NOTIFICATION_DESCRIPTION": "Check you budget 💸 for today",
+    "HOME": {
+      "BUDGET_BOX_TITLE": "Type your budget",
+      "ADD_BUDGET_BUTTON": "Add budget",
+      "ERROR_MESSAGE": "Budget must be greater than 0"
+    },
+    "MAIN": {
+      "EXPENSE_FORM": {
+        "FORM_TITLE": "Add your expenses here",
+        "FORM_LABEL_NAME": "Name",
+        "FORM_LABEL_AMOUNT": "Amount",
+        "FORM_BUTTON_ADD": "Add Expense",
+        "FORM_AMOUNT_PLACEHOLDER": "Ej. $100",
+        "FORM_NAME_PLACEHOLDER": "Ej. Food",
+        "FORM_ERROR_MESSAGE": "Name and amount must be filled"
+      },
+      "EXPENSE_LIST": {
+        "TITLE": "LIST OF EXPENSES",
+        "EMPTY_LIST_MESSAGE": "You don't have any expenses yet"
+      },
+      "EXPENSE_TRACKING": {
+        "BUDGET_LABEL": "Budget",
+        "REMAINING_LABEL": "Remaining",
+        "CLEAN_LIST_BUTTON": "Clean List",
+        "RESET_BUDGET_BUTTON": "Reset Budget"
+      }
+    },
+    "SETTING": {
+      "TITLE": "Settings",
+      "LANG_LABEL": "Language",
+      "NOTIFICATION_LABEL": "Notification",
+      "BACK_BUTTON": "Go home",
+      "SETTING_SUBTITLE": "Set your settings",
+      "NOTIFICATION_NOTE": "You will receive a reminder notification of your current budget."
+    }
+  },
+  "ES": {
+    "APP_NAME": "GASTO SEMANAL",
+    "NOTIFICATION_DESCRIPTION": "Revisa tu presupuesto 💸 para hoy",
+    "HOME": {
+      "BUDGET_BOX_TITLE": "Coloca tu presupuesto",
+      "ADD_BUDGET_BUTTON": "Agregar presupuesto",
+      "ERROR_MESSAGE": "El presupuesto debe ser mayor a 0"
+    },
+    "MAIN": {
+      "EXPENSE_FORM": {
+        "FORM_TITLE": "Agrega tus gastos aquí",
+        "FORM_LABEL_NAME": "Nombre",
+        "FORM_LABEL_AMOUNT": "Cantidad",
+        "FORM_BUTTON_ADD": "Agregar Gasto",
+        "FORM_NAME_PLACEHOLDER": "Ej. Comida",
+        "FORM_AMOUNT_PLACEHOLDER": "Ej. $100",
+        "FORM_ERROR_MESSAGE": "El nombre y la cantidad deben ser llenados"
+      },
+      "EXPENSE_LIST": {
+        "TITLE": "Lista de Gastos",
+        "EMPTY_LIST_MESSAGE": "No tienes gastos aún"
+      },
+      "EXPENSE_TRACKING": {
+        "BUDGET_LABEL": "Presupuesto",
+        "REMAINING_LABEL": "Restante",
+        "CLEAN_LIST_BUTTON": "Limpiar lista",
+        "RESET_BUDGET_BUTTON": "Reiniciar presupuesto"
+      }
+    },
+    "SETTING": {
+      "TITLE": "Ajustes",
+      "LANG_LABEL": "Idioma",
+      "NOTIFICATION_LABEL": "Notificacion",
+      "BACK_BUTTON": "Ir a home",
+      "SETTING_SUBTITLE": "Establezca su configuración",
+      "NOTIFICATION_NOTE": "Recibirá una notificación de recordatorio de su presupuesto actual."
+    }
+  }
+}
